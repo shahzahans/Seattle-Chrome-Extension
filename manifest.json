@@ -1,0 +1,12 @@
+{
+    "name" : "Seattle Upcoming Concerts",
+    "version": "1.0.0",
+    "description": "This is an extemsion to look up concert",
+    "manifest_version": 3,
+    "author": "Shadman Shahzahan",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Seattle Upcoming Concerts"
+    }
+}
+  
